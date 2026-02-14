@@ -1,0 +1,4 @@
+cd "C:\Users\nivh\Music\Coding\DSA-Training-College-"
+git status
+git add . && git commit -m "Added / Updated problems" && git push orgin main
+.
